@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\ASP\\serverBackend\\SunnahBdMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj": {}
+    "D:\\2019_Practice\\ASP\\sunnah-bd-matrimony\\serverBackend\\SunnahBDMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\ASP\\serverBackend\\SunnahBdMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj": {
+    "D:\\2019_Practice\\ASP\\sunnah-bd-matrimony\\serverBackend\\SunnahBDMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\ASP\\serverBackend\\SunnahBdMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj",
+        "projectUniqueName": "D:\\2019_Practice\\ASP\\sunnah-bd-matrimony\\serverBackend\\SunnahBDMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj",
         "projectName": "SunnahBdMatrimony",
-        "projectPath": "C:\\workspace\\ASP\\serverBackend\\SunnahBdMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj",
-        "packagesPath": "C:\\Users\\r.islam\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\ASP\\serverBackend\\SunnahBdMatrimony\\SunnahBdMatrimony\\obj\\",
+        "projectPath": "D:\\2019_Practice\\ASP\\sunnah-bd-matrimony\\serverBackend\\SunnahBDMatrimony\\SunnahBdMatrimony\\SunnahBdMatrimony.csproj",
+        "packagesPath": "C:\\Users\\AliHamza\\.nuget\\packages\\",
+        "outputPath": "D:\\2019_Practice\\ASP\\sunnah-bd-matrimony\\serverBackend\\SunnahBDMatrimony\\SunnahBdMatrimony\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\r.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliHamza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "M:\\05. Project Management\\2. DE\\ID-ware\\Visitormanagement\\Nuget\\Access Editor": {},
-          "M:\\05. Project Management\\2. DE\\ID-ware\\Visitormanagement\\Nuget\\Core": {},
-          "M:\\05. Project Management\\2. DE\\ID-ware\\Visitormanagement\\Nuget\\Third Party": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -52,6 +51,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

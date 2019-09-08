@@ -12,3 +12,17 @@ C:\workspace\ASP\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\net
 C:\workspace\ASP\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.RazorTargetAssemblyInfo.cache
 C:\workspace\ASP\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.dll
 C:\workspace\ASP\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.pdb
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\bin\Debug\netcoreapp2.2\SunnahBdMatrimony.deps.json
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\bin\Debug\netcoreapp2.2\SunnahBdMatrimony.runtimeconfig.json
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\bin\Debug\netcoreapp2.2\SunnahBdMatrimony.runtimeconfig.dev.json
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\bin\Debug\netcoreapp2.2\SunnahBdMatrimony.dll
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\bin\Debug\netcoreapp2.2\SunnahBdMatrimony.pdb
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.csproj.CoreCompileInputs.cache
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.RazorAssemblyInfo.cache
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.RazorAssemblyInfo.cs
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.AssemblyInfoInputs.cache
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.AssemblyInfo.cs
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.RazorTargetAssemblyInfo.cache
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.dll
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBdMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.pdb
+D:\2019_Practice\ASP\sunnah-bd-matrimony\serverBackend\SunnahBDMatrimony\SunnahBdMatrimony\obj\Debug\netcoreapp2.2\SunnahBdMatrimony.csprojAssemblyReference.cache
